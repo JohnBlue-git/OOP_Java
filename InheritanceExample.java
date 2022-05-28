@@ -4,7 +4,15 @@ Time: 2022/3
 Platform: ATOM with atom-ide-ui, ide-java, and script
 SDK: java SE 8 SDK
 Object: to show inheritance of class, how to upcast, down cast, determine which class the object belong
-Reference: ...
+
+Inheritance ::
+
+is a property to inheriant assets from base class
+is mecahnism to inheriant asset
+
+Override ::
+
+is a mechanism for a dirived class to redefine functions in base class to meet its own demand
 */
 
 class Base {
