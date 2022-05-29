@@ -1,2 +1,2 @@
 # OOP_Java
-Basic usage and concepy of OOP in Java
+Basic usage and concept of OOP in Java
