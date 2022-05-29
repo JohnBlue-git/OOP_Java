@@ -10,6 +10,8 @@ Inheritance ::
 is a property to inheriant assets from base class
 is mecahnism to inheriant asset
 
+in Java, it only has public inheritance
+
 Override ::
 
 is a mechanism for a dirived class to redefine functions in base class to meet its own demand
